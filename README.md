@@ -56,4 +56,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Madhavan146/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Madhavan146/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
