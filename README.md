@@ -13,6 +13,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Madhavan146/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Madhavan146/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Madhavan146/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Madhavan146/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhavan146/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Madhavan146/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Madhavan146/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Madhavan146/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Matrix
 |  |
 | ------- |
