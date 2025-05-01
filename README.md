@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madhavan146/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Madhavan146/LeetCode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Madhavan146/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0932-monotonic-array](https://github.com/Madhavan146/LeetCode/tree/master/0932-monotonic-array) |
@@ -82,6 +83,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Madhavan146/LeetCode/tree/master/0075-sort-colors) |
 | [2481-strictly-palindromic-number](https://github.com/Madhavan146/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhavan146/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -99,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Madhavan146/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhavan146/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
