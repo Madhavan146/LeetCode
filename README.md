@@ -38,6 +38,7 @@
 | [0007-reverse-integer](https://github.com/Madhavan146/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Madhavan146/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Madhavan146/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Madhavan146/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Madhavan146/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Madhavan146/LeetCode/tree/master/0319-bulb-switcher) |
