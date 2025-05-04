@@ -46,6 +46,7 @@
 | [0319-bulb-switcher](https://github.com/Madhavan146/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Madhavan146/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Madhavan146/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Madhavan146/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Madhavan146/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Madhavan146/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -73,6 +74,7 @@
 | [0231-power-of-two](https://github.com/Madhavan146/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Madhavan146/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Madhavan146/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
