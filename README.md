@@ -37,6 +37,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Madhavan146/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Madhavan146/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Madhavan146/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Madhavan146/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Madhavan146/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Madhavan146/LeetCode/tree/master/0070-climbing-stairs) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Madhavan146/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Madhavan146/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Madhavan146/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
