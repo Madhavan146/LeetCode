@@ -22,6 +22,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Madhavan146/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhavan146/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Madhavan146/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Madhavan146/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Madhavan146/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhavan146/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Madhavan146/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -34,6 +35,7 @@
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Madhavan146/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Madhavan146/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Madhavan146/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Madhavan146/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Number Theory
 |  |
 | ------- |
