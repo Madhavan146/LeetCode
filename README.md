@@ -51,6 +51,7 @@
 | [0326-power-of-three](https://github.com/Madhavan146/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Madhavan146/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Madhavan146/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1236-n-th-tribonacci-number](https://github.com/Madhavan146/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Madhavan146/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Madhavan146/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Madhavan146/LeetCode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Madhavan146/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Madhavan146/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
@@ -151,4 +153,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Madhavan146/LeetCode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Madhavan146/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
