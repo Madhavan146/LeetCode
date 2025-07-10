@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Madhavan146/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0932-monotonic-array](https://github.com/Madhavan146/LeetCode/tree/master/0932-monotonic-array) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Madhavan146/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhavan146/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
