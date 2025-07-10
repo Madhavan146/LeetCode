@@ -117,6 +117,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhavan146/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Madhavan146/LeetCode/tree/master/0520-detect-capital) |
+| [1205-defanging-an-ip-address](https://github.com/Madhavan146/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Binary Search
 |  |
 | ------- |
