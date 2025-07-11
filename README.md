@@ -16,6 +16,7 @@
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Madhavan146/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhavan146/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhavan146/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Madhavan146/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -135,6 +136,7 @@
 | [0088-merge-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Madhavan146/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhavan146/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Madhavan146/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhavan146/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/Madhavan146/LeetCode/tree/master/3321-type-of-triangle) |
