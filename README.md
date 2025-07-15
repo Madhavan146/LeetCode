@@ -19,6 +19,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhavan146/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Madhavan146/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Madhavan146/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Madhavan146/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Madhavan146/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -64,6 +65,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Madhavan146/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Madhavan146/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Madhavan146/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Madhavan146/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Madhavan146/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Madhavan146/LeetCode/tree/master/2481-strictly-palindromic-number) |
