@@ -18,6 +18,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhavan146/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhavan146/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Madhavan146/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Madhavan146/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Madhavan146/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhavan146/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Madhavan146/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Madhavan146/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Madhavan146/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -146,6 +148,7 @@
 | [0169-majority-element](https://github.com/Madhavan146/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhavan146/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Madhavan146/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Madhavan146/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Madhavan146/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
