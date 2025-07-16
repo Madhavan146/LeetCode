@@ -73,6 +73,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/Madhavan146/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Madhavan146/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Madhavan146/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Madhavan146/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Madhavan146/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Madhavan146/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/Madhavan146/LeetCode/tree/master/2752-sum-multiples) |
@@ -182,6 +183,7 @@
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhavan146/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Madhavan146/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Madhavan146/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Memoization
 |  |
 | ------- |
