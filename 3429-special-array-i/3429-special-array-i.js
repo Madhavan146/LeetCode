@@ -4,11 +4,11 @@
  */
 var isArraySpecial = function (a) {
 
-n=a.length;
+let n,e,o,s,f;
 
+n=a.length;
 e=5;
 o=6;
-
 if(a[0]%2==0)
 {
     s=e;
@@ -17,7 +17,6 @@ else
 {
     s=o;
 }
-
 if(s==e)
 {
 for(i=0;i<n;i++)
@@ -34,7 +33,6 @@ for(i=0;i<n;i++)
             break;
         }
     }
-
     else if(i%2!=0)
     {
         if(a[i]%2!=0)
@@ -65,7 +63,6 @@ if(s==o)
             break;
         }
     }
-
     else if(i%2!=0)
     {
         if(a[i]%2==0)
@@ -77,22 +74,11 @@ if(s==o)
             f=1;
             break;
         }
-
 }
-
-
 }
-
-
 }
-
 if(f==0 || n==1)
 return true;
-
 else
 return false;
-
-
-
-
 };
