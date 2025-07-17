@@ -77,6 +77,7 @@
 | [2481-strictly-palindromic-number](https://github.com/Madhavan146/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Madhavan146/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2630-alternating-digit-sum](https://github.com/Madhavan146/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [2748-calculate-delayed-arrival-time](https://github.com/Madhavan146/LeetCode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Madhavan146/LeetCode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/Madhavan146/LeetCode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Madhavan146/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
