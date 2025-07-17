@@ -42,6 +42,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Madhavan146/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhavan146/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Madhavan146/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3778-transform-array-by-parity](https://github.com/Madhavan146/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Madhavan146/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Madhavan146/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhavan146/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/Madhavan146/LeetCode/tree/master/3321-type-of-triangle) |
+| [3778-transform-array-by-parity](https://github.com/Madhavan146/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Madhavan146/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Madhavan146/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Madhavan146/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3778-transform-array-by-parity](https://github.com/Madhavan146/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Number Theory
 |  |
 | ------- |
