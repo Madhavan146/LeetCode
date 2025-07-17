@@ -39,6 +39,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Madhavan146/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/Madhavan146/LeetCode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Madhavan146/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Madhavan146/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhavan146/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Madhavan146/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Madhavan146/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -54,6 +55,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Madhavan146/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Madhavan146/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Madhavan146/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [3321-type-of-triangle](https://github.com/Madhavan146/LeetCode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/Madhavan146/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Madhavan146/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Madhavan146/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhavan146/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Madhavan146/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Brainteaser
