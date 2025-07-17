@@ -82,6 +82,7 @@
 | [2748-calculate-delayed-arrival-time](https://github.com/Madhavan146/LeetCode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Madhavan146/LeetCode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/Madhavan146/LeetCode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/Madhavan146/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Madhavan146/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhavan146/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Madhavan146/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -92,10 +93,12 @@
 | [0319-bulb-switcher](https://github.com/Madhavan146/LeetCode/tree/master/0319-bulb-switcher) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Madhavan146/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/Madhavan146/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Madhavan146/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Madhavan146/LeetCode/tree/master/0292-nim-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Madhavan146/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [0520-detect-capital](https://github.com/Madhavan146/LeetCode/tree/master/0520-detect-capital) |
 | [1205-defanging-an-ip-address](https://github.com/Madhavan146/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhavan146/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Madhavan146/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
