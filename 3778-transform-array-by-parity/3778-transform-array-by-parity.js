@@ -4,6 +4,8 @@
  */
 var transformArray = function(a) {
 
+let n,b,e,o,i;
+
 n=a.length;
 b=[];
 e=0;
