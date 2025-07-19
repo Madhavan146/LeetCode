@@ -4,7 +4,7 @@
  */
 var getConcatenation = function(s) {
 
-let k,b,c,i;
+//let k,b,c,i;
 
 k=[];
 b=[];
