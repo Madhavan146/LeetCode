@@ -1,14 +1,16 @@
 /**
  * @param {number[]} a
- * @return {number}
+ * @return {number}   k,i,n,t,l
  */
 var maxProfit = function(a) {
 
 k=0;
-    for(i=0;i<a.length-1;i++){
-       
-       if(a[i+1]>a[i]){
-          k+=a[i+1]-a[i];
+n=a.length;
+    for(i=0;i<n-1;i++){
+         t=a[i+1];
+         l=a[i];
+       if(t>l){
+          k+=t-l;
        }
          
 
