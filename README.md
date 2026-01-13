@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Madhavan146/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Madhavan146/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhavan146/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhavan146/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Madhavan146/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Madhavan146/LeetCode/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Madhavan146/LeetCode/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhavan146/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/Madhavan146/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Madhavan146/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Madhavan146/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
@@ -223,6 +225,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhavan146/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Madhavan146/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
