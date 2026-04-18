@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhavan146/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Madhavan146/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Madhavan146/LeetCode/tree/master/0645-set-mismatch) |
 | [0932-monotonic-array](https://github.com/Madhavan146/LeetCode/tree/master/0932-monotonic-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Madhavan146/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -58,6 +59,7 @@
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhavan146/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhavan146/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/Madhavan146/LeetCode/tree/master/0645-set-mismatch) |
 | [1635-number-of-good-pairs](https://github.com/Madhavan146/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Madhavan146/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Madhavan146/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -117,6 +119,7 @@
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Madhavan146/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Madhavan146/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/Madhavan146/LeetCode/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [0169-majority-element](https://github.com/Madhavan146/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhavan146/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/Madhavan146/LeetCode/tree/master/0645-set-mismatch) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhavan146/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Madhavan146/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Madhavan146/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
