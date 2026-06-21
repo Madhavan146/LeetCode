@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/Madhavan146/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Madhavan146/LeetCode/tree/master/0645-set-mismatch) |
 | [0932-monotonic-array](https://github.com/Madhavan146/LeetCode/tree/master/0932-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Madhavan146/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhavan146/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -145,6 +146,7 @@
 | [0075-sort-colors](https://github.com/Madhavan146/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhavan146/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/Madhavan146/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhavan146/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -174,6 +176,7 @@
 | [0268-missing-number](https://github.com/Madhavan146/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhavan146/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Madhavan146/LeetCode/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhavan146/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Madhavan146/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Madhavan146/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
