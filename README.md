@@ -21,6 +21,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Madhavan146/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Madhavan146/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madhavan146/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhavan146/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhavan146/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Madhavan146/LeetCode/tree/master/1603-running-sum-of-1d-array) |
